@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/final/static/css/main.9aed9c28.css",
+    "main.js": "/final/static/js/main.130009d0.js",
+    "static/js/787.709e0693.chunk.js": "/final/static/js/787.709e0693.chunk.js",
+    "static/media/Amor.jpg": "/final/static/media/Amor.998ed4d53775a8d3527f.jpg",
+    "static/media/Cursos.png": "/final/static/media/Cursos.5ffbc446a86b6dfbec30.png",
+    "static/media/Services.png": "/final/static/media/Services.887f8588f252fd877604.png",
+    "static/media/Logo.png": "/final/static/media/Logo.cfe9a3809d64bf191fe4.png",
+    "index.html": "/final/index.html",
+    "main.9aed9c28.css.map": "/final/static/css/main.9aed9c28.css.map",
+    "main.130009d0.js.map": "/final/static/js/main.130009d0.js.map",
+    "787.709e0693.chunk.js.map": "/final/static/js/787.709e0693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aed9c28.css",
+    "static/js/main.130009d0.js"
+  ]
+}
